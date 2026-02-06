@@ -1,4 +1,4 @@
-# Euphoria Games
+# Euphoria Games :euphoriamc.falix.dev:29746
 
 Eaglercraft Minecraft server - Euphoria Games edition.
 
