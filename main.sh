@@ -2,7 +2,7 @@
 echo starting...
 cd bungee
 
-MTOD="${MTOD:-'@EuphoriaGames on youtube'}"
+MTOD="${MTOD:-'Euphoria Games Server made by HitBoy'}"
 NAME="${NAME:-'Euphoria Games'}"
 
 sed -i 's/${SERVER}/'"$SERVER"'/g' config.yml
