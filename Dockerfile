@@ -1,5 +1,5 @@
-# Use an official base image with Java
-FROM openjdk:11-jre-slim
+# Use an official base image with Java (openjdk deprecated, use Eclipse Temurin)
+FROM eclipse-temurin:11-jre-jammy
 
 
 # Copy everything from the current directory to /app in the container
